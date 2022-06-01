@@ -6,7 +6,7 @@ image:
   repository: ghcr.io/heigliner-robot/gin-vue-2022-06-01t21-13-45-frontend
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "main"
+  tag: "1ad034a"
 imagePullSecrets:
   - name: gin-vue-2022-06-01t21-13-45
 nameOverride: ""
